@@ -1,0 +1,16 @@
+  698  ls
+  699  which python
+  700  jupyter notebook
+  701  ls
+  702  cd /Users/andrewmskorupa/Downloads/Class_1_Activities\ \(5\)/02-Stu_Comics_Remix_Jupyter 
+  703  jupyter-notebook
+  704  jupyter notebook
+  705  jupyter notebook
+  706  git
+  707  git clone https://github.com/AndyMSkor/MatPlotLib-Challenge.git
+  708  ls
+  709  cd matplotlib-challenge
+  710  git add .
+  711  git commit -m "uploading files"
+  712  git push
+  713  history
